@@ -1,0 +1,1 @@
+SELECT nazwa, COUNT(instalacje.id) FROM firmy INNER JOIN instalacje ON instalacje.id_firmy=firmy.id_firmy GROUP BY nazwa DESC ORDER BY COUNT(instalacje.id)
