@@ -1,0 +1,108 @@
+nr_trans	danie	iloœæ	cena_szt
+1	lody	5	5,5
+1	kawa latte	2	8,5
+2	jab³ecznik 	3	13
+2	kawa latte	2	10
+2	kawa espresso	1	7
+2	lody	6	5,5
+3	ice oreo	3	20
+3	maliny na ciep³o z bez¹	2	20
+3	lemoniada malinowo- miêtowa	4	13
+3	lemoniada gruszka-tymianek	1	12
+5	karmelove marzenie	2	20
+5	s³odki ogród	2	20
+5	kawa espresso	2	7
+5	kawa latte	2	8,5
+6	jab³ecznik 	4	13
+6	lody	8	5,5
+6	kawa bia³a	2	8
+6	bia³a czekolada	2	15
+7	owoce pod kruszonk¹	2	12
+7	lody	2	5,5
+7	kawa espresso	2	7
+8	s³odkoœæ dnia	2	14
+8	bia³a czekolada	1	15
+8	kawa latte	1	8,5
+9	karmelove marzenie	2	20
+9	s³odki ogród	2	20
+9	pistacjowe frappe	2	15
+9	lemoniada malinowo- miêtowa	2	13
+10	kawa wiedeñska	3	9
+10	lody	8	5,5
+11	ice oreo	1	20
+11	s³odkoœæ dnia	1	14
+11	kawa espresso	2	7
+12	owoce pod kruszonk¹	1	12
+12	s³odkoœæ dnia	1	14
+12	kawa czarna	2	7
+13	jab³ecznik 	3	13
+13	lody	3	5,5
+13	ice oreo	3	20
+13	lemoniada gruszka-tymianek	2	12
+13	lemoniada rabarbar z wanili¹	1	12
+14	lody	6	5,5
+14	bia³a czekolada	2	15
+14	owoce pod kruszonk¹	2	12
+15	kawa czarna	1	7
+15	lody	4	5,5
+15	pistacjowe frappe	1	15
+16	ice oreo	1	20
+16	maliny na ciep³o z bez¹	1	20
+16	kawa bia³a	1	8
+16	kawa espresso	1	7
+17	ice oreo	1	20
+17	owoce pod kruszonk¹	1	12
+17	lemoniada gruszka-tymianek	1	12
+17	lemoniada rabarbar z wanili¹	1	12
+18	kawa bia³a	2	8
+18	s³odkoœæ dnia	2	14
+19	cappuccino	2	9
+19	maliny na ciep³o z bez¹	2	20
+20	cappuccino	1	9
+20	jab³ecznik 	1	13
+21	ice oreo	1	20
+21	maliny na ciep³o z bez¹	1	20
+21	pistacjowe frappe	2	15
+22	s³odki ogród	1	20
+22	owoce pod kruszonk¹	1	12
+22	lemoniada rabarbar z wanili¹	2	12
+23	cappuccino	1	9
+23	kawa wiedeñska	1	9
+24	cappuccino	1	9
+24	bia³a czekolada	1	15
+25	s³odkoœæ dnia	1	14
+25	lemoniada rabarbar z wanili¹	1	12
+26	lody	10	5,5
+27	kawa wiedeñska	1	9
+27	lemoniada gruszka-tymianek	1	12
+27	lody	4	5,5
+28	lemoniada malinowo- miêtowa	2	13
+28	lemoniada gruszka-tymianek	2	12
+29	kawa czarna	1	7
+30	s³odkoœæ dnia	1	14
+30	maliny na ciep³o z bez¹	1	20
+30	bia³a czekolada	2	15
+31	pistacjowe frappe	3	15
+31	ice oreo	3	20
+31	maliny na ciep³o z bez¹	3	20
+31	kawa latte	3	8,5
+32	s³odkoœæ dnia	2	14
+32	kawa espresso	2	7
+32	lody	2	5,5
+33	karmelove marzenie	2	20
+33	lemoniada gruszka-tymianek	1	12
+33	lemoniada rabarbar z wanili¹	1	12
+34	kawa latte	2	8,5
+34	lody	2	5,5
+35	owoce pod kruszonk¹	2	12
+35	lody	2	5,5
+36	kawa espresso	2	7
+36	ice oreo	2	20
+37	owoce pod kruszonk¹	2	12
+37	kawa latte	2	8,5
+38	cappuccino	1	9
+38	lody	1	5,5
+39	lemoniada malinowo- miêtowa	2	13
+39	maliny na ciep³o z bez¹	2	20
+40	pistacjowe frappe	2	15
+40	ice oreo	2	20

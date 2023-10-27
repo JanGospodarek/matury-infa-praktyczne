@@ -1,0 +1,12 @@
+id_dzialu	nazwa_dzia³u	id_lokalizacji
+1	Administracja	1700
+2	Marketing	1800
+3	Zaopatrzenie	1700
+4	Kadry	2400
+5	Dzia³a handlowy 	1500
+6	IT	1400
+7	Dzia³ wizerunkowy	2700
+8	Dzia³ sprzeda¿y	2500
+9	Serwis	1700
+10	P³ace	1700
+11	Rachunkowoœæ	1700

@@ -1,0 +1,26 @@
+id_szkolenia	nazwa	modul	cena
+sk1	spawanie MMA	1	1450
+sk2	spawanie MMA	2	2150
+sk3	spawanie MMA	3	2250
+sk4	spawanie MIG	1	2650
+sk5	spawanie MIG	2	2800
+sk6	spawanie MIG	3	3000
+sk7	spawanie MAG	1	1450
+sk8	spawanie MAG	2	2150
+sk9	spawanie MAG	3	2250
+sk10	spawanie gazowego	2	1450
+sk11	spawanie gazowego	3	2150
+sk12	spawanie drutami proszkowymi	1	2700
+sk13	spawanie drutami proszkowymi	2	3000
+sk14	spawanie drutami proszkowymi	3	3200
+sk15	spawanie drutem proszkowym z rdzeniem metalicznym	1	2700
+sk16	spawanie drutem proszkowym z rdzeniem metalicznym	2	3000
+sk17	spawanie drutem proszkowym z rdzeniem metalicznym	3	3200
+sk18	spawanie TIG	1	1650
+sk19	spawanie TIG	2	2250
+sk20	spawanie TIG	3	2550
+sk21	ciêcie gazowe	1	600
+sk22	ciêcie plazmowe	1	600
+sk23	spoint pachwinowe	1	400
+sk24	spoiny czo³owe  blach	1	500
+sk25	spoiny czo³owe rur	1	600

@@ -1,0 +1,36 @@
+Id_pacjenta	gatunek	rasa	wiek	imie	p³eæ	Id_w³asciciela
+p1	pies	mieszana	5	Kora	samica	w3
+p10	pies	sznaucer olbrzymi	6	Pikado	samiec	w5
+p11	kot	turecki angora	5	Kapsel	samiec	w6
+p12	kot	perski czarny	4	Puszek	samiec	w7
+p13	kot	sfinks	6	Erik	samiec	w10
+p14	œwinka morska	moher	2	Kika	samica	w12
+p15	œwinka morska	abisyñska	1	Zeta	samica	w14
+p16	chomik	syryjski	2	Piko	samiec	w13
+p17	chomik	syryjski	1	Pako	samiec	w13
+p18	pies	owczarek niemiecki	6	Sako	samiec	w15
+p19	pies	owczarek podhalañski	7	Kora	samica	w17
+p2	pies	mieszana	2	Zefir	samiec	w8
+p20	kot	sfinks	2	Mako	samiec	w16
+p21	pies	owczarek niemiecki	7	Reks	samiec	w9
+p22	kot	perski czarny	3	Ptyœ	samiec	w18
+p23	chomik	syryjski	2	Irys	samiec	w13
+p24	œwinka morska	abisyñska	1	Groszek	samiec	w20
+p25	fretka	domowa	3	Alfa	samiec	w19
+p26	fretka	domowa	3	Omega	samica	w19
+p27	królik	olbrzym belgijski	4	Borys	samiec	w10
+p28	królik	olbrzym belgijski	2	Diana	samica	w10
+p29	kot	perski czarny	9	Cekin	samiec	w7
+p3	pies	owczarek niemiecki	3	Mikado	samiec	w9
+p30	królik	olbrzym belgijski	4	Pola	samica	w10
+p31	pies	owczarek podhalañski	2	Max	samiec	w17
+p32	pies	mieszana	7	Gary	samiec	w3
+p33	pies	owczarek niemiecki	9	Lora	samica	w15
+p34	pies	mieszana	3	Mimi	samica	w4
+p35	pies	owczarek niemiecki	8	Korki	samiec	w15
+p4	kot	perski czarny	1	Pusia	samica	w7
+p5	kot	europejski	2	Tekla	samica	w11
+p6	kot	perski bia³y	6	Max	samiec	w1
+p7	œwinka morska	sheltie	2	Kira	samica	w2
+p8	pies	owczarek niemiecki	8	Zora	samica	w9
+p9	pies	sznaucer ma³y	7	Korek	samiec	w4

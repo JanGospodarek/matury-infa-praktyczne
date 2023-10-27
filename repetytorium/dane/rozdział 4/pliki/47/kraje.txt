@@ -1,0 +1,26 @@
+id_kraju	nazwa_kraju	id_kontynentu
+AR	Argentyna	2
+AU	Australia	3
+BE	Belgia	1
+BR	Brazylia	2
+CA	Kanada	2
+CH	Szwajcaria	1
+CN	Chiny	3
+DE	Niemcy	1
+DK	Dania	1
+EG	Egipt	4
+FR	Francja	1
+HK	Hongkong	3
+IL	Izrael	4
+IN	Indie	3
+IT	W³ochy	1
+JP	Japonia	3
+KW	Kuwejt	4
+MX	Meksyk	2
+NG	Nigeria	4
+NL	Holandia	1
+SG	Singapur	3
+UK	Wielka Brytania	1
+US	Stany Zjednoczone Ameryki	2
+ZM	Zambia	4
+ZW	Zimbabwe	4

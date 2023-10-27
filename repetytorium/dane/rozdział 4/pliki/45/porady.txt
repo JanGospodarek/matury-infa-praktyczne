@@ -1,0 +1,30 @@
+Id_porady	nazwa	kwota
+pr1	Antykoncepcja	40
+pr2	Cesarskie cięcie	300
+pr3	Czipowanie	50
+pr4	Drobny zabieg chirurgiczny	200
+pr5	Drobny zabieg w znieczuleniu	250
+pr6	Kastracja	200
+pr7	Leczenie złamań	400
+pr8	Odrobaczanie	40
+pr9	Przyjmowanie porodu	100
+pr10	Sterylizacja	220
+pr11	Szczepienie	80
+pr12	Usuwanie kamienia nazębnego	100
+pr13	Usuwanie kleszczy	15
+pr14	Znieczulenie ogólne	40
+pr15	Zwalczanie pcheł	30
+pr16	Badania parazytologiczne	25
+pr17	Badanie kału	40
+pr18	Badanie krwi	20
+pr19	Badanie moczu	25
+pr20	Badanie zeskrobin naskórka	35
+pr21	Cytologia	25
+pr22	EKG	40
+pr23	RTG	100
+pr24	Testy alergiczne	180
+pr25	USG	100
+pr26	Czyszczenie uszu	25
+pr27	Czyszczenie zębów	150
+pr28	Kąpiel	50
+pr29	Obcinanie pazurów	30

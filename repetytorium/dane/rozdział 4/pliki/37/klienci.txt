@@ -1,0 +1,43 @@
+kod_klienta	nazwa	rodzaj
+kl1	Kowalski Adam 	osoba prywatna
+kl2	Owocni Sp. z o.o.	firma
+kl3	Mocna Agnieszka 	osoba prywatna
+kl4	Szybki Tomasz 	osoba prywatna
+kl5	Zarêba Anna 	osoba prywatna
+kl6	ClickFunnel sp. z o.o.	firma
+kl7	P.H. Korek 	firma
+kl8	P.H. Kosmos	firma
+kl9	Prentka Maria 	osoba prywatna
+kl10	Mig Beata 	osoba prywatna
+kl11	P.H. Kopeæ	firma
+kl12	Kozina Antoni 	osoba prywatna
+kl13	Najmowicz Tadeusz 	osoba prywatna
+kl14	Zaj¹c Aneta 	osoba prywatna
+kl15	Wojciechowski Stefan	osoba prywatna
+kl16	Skrzypczak Makary	osoba prywatna
+kl17	Rosiñska Weronika	firma
+kl18	Górecka Danuta	osoba prywatna
+kl19	Janowska Bo¿ena	osoba prywatna
+kl20	Trojanowski Zdzis³aw	osoba prywatna
+kl21	Paczkowska Marta	osoba prywatna
+kl22	Stolarski Zygmunt	firma
+kl23	Rzepecka Bernardyna	osoba prywatna
+kl24	Bia³ek Bernardyna	osoba prywatna
+kl25	Jêdrzejczyk Gabriela	firma
+kl26	Lis Blanka	osoba prywatna
+kl27	Skowron Ró¿a	osoba prywatna
+kl28	Janiszewski Cezar	osoba prywatna
+kl29	Misiak Wiktoria	firma
+kl30	Augustyniak Gra¿yna	osoba prywatna
+kl31	Skoczylas Julia	osoba prywatna
+kl32	Kmieæ Rados³awa	osoba prywatna
+kl33	Kukla Zenona	firma
+kl34	Œwi¹tek Martyna	osoba prywatna
+kl35	£apiñski Patryk	osoba prywatna
+kl36	Chmura Sonia	osoba prywatna
+kl37	Reszka Gabriela	osoba prywatna
+kl38	Piotrowska Emilia	osoba prywatna
+kl39	P.H. Skarpeta	firma
+kl40	P.H. Bociek	firma
+kl41	P.H. Kora	firma
+kl42	P.H. S³omka	firma

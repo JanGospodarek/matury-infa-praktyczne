@@ -1,0 +1,11 @@
+ID_jednostki	nazwa_jednostki
+GDA-55	Flądra
+GDA-56	Don Dodo
+GDA-57	Krewetka
+GDA-58	Polonus
+GDA-59	Piękna Mary
+GDA-60	Koliber
+GDA-61	Aurora
+GDA-62	Matador
+GDA-63	Sardynka
+GDA-64	Baltica

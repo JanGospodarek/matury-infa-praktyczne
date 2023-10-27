@@ -1,0 +1,5 @@
+id_kontynentu	nazwa
+1	Europa
+2	Ameryka
+3	Azja
+4	Bliski wschód i Afryka

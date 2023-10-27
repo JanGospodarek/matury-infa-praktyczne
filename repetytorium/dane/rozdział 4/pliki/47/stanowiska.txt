@@ -1,0 +1,20 @@
+id_stanowiska	nazwa
+1	G³ówny ksiêgowy
+2	Kierownik ksiêgowoœci
+3	Asystent administracji
+4	Prezes
+5	Wiceprezes ds. administracji
+6	Ksiêgowy
+7	Kierownik finansowy
+8	Przedstawiciel ds. kadrowych
+9	Programista
+10	Kierownik marketingu
+11	Przedstawiciel handlowy
+12	Przedstawiciel ds. public relations
+13	Pracownik ds. zakupów
+14	Kierownik ds. zakupów
+15	Kierownik sprzeda¿y
+16	Pracownik ds. sprzeda¿y
+17	Pracownik ds. wysy³ki
+18	Zaopatrzeniowiec
+19	Kierownik zaopatrzenia

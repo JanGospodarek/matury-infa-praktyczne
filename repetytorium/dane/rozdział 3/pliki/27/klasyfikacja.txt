@@ -1,0 +1,35 @@
+nr;Nazwisko i imiê;zachowanie;Religia;Etyka;Jêzyk polski;Jêzyk angielski;Jêzyk niemiecki;Matematyka;Fizyka;Informatyka;Projektowanie;Chemia;Edukacja dla bezpieczeñstwa;Wychowanie fizyczne;Geografia;Wiedza o kulturze;Biologia;Historia;Wiedza o spo³eczeñstwie;Podstawy przedsiêbiorczoœci;Historia i spo³eczeñstwo;Fizyka doœwiadczalna
+1;Blachowicz Miko³aj;bardzo dobre;;;4;4;4;2;2;5;5;5;5;5;4;5;5;4;5;5;5;5
+2;Bocian Alicja;wzorowe;6;;5;5;3;4;5;6;5;4;5;5;4;5;6;5;5;5;5;5
+3;Bocian Antonina;wzorowe;6;;5;5;3;2;3;6;5;5;5;z;5;5;5;5;5;5;6;4
+4;Bogucki Jan;wzorowe;5;;5;5;5;4;4;6;6;5;5;6;5;4;5;4;5;5;5;5
+5;Chmiel El¿bieta;dobre;;;3;4;3;2;2;3;3;4;4;3;3;3;4;3;4;4;4;4
+6;Doro¿ Filip Dawid;bardzo dobre;;;3;4;4;2;3;4;4;4;5;5;4;4;5;4;4;5;5;4
+7;Frantczak Jerzy Marek;bardzo dobre;5;;4;4;3;2;3;5;5;4;5;6;4;3;4;4;4;5;5;5
+8;Gawe³ Pawe³;bardzo dobre;5;;4;5;5;3;4;4;6;5;5;5;5;4;5;4;5;5;6;4
+9;Gazdon Martyna Krystyna;wzorowe;;;4;5;3;3;4;4;5;5;5;3;4;6;5;6;6;6;6;5
+10;Grot Igor Jan;wzorowe;;;3;4;4;2;2;4;4;4;5;5;3;3;4;4;4;4;5;4
+11;Jaroœ Bart³omiej Krzysztof;dobre;;;3;3;2;2;3;3;3;3;5;z;3;3;4;3;3;4;4;3
+12;Jerzyna Oliwia;wzorowe;6;;4;5;5;3;3;5;5;4;5;6;4;5;5;4;4;4;6;6
+13;Kamieñ Jakub;wzorowe;6;;4;4;5;5;5;6;6;4;5;6;4;4;5;4;5;5;5;5
+14;Kamionka Kamila;wzorowe;;;3;4;5;3;3;3;5;4;5;4;4;5;5;4;4;5;4;4
+15;Katarynka Wiktoria Patrycja;bardzo dobre;;;4;4;4;2;3;5;5;4;5;5;5;5;5;4;4;5;6;6
+16;Kobyliñska Zofia;wzorowe;;;4;5;6;3;4;4;5;5;5;5;5;5;5;4;5;5;5;5
+17;Kran Jakub;bardzo dobre;;;4;4;5;4;4;3;4;4;5;6;4;5;5;4;4;5;5;4
+18;Kujawa Jerzy;dobre;;;3;4;2;2;2;3;3;3;4;4;4;4;4;4;3;4;5;4
+19;Laskiewicz Miko³aj Wojciech;poprawne;;;3;3;4;2;2;3;4;4;5;5;4;3;4;3;4;4;5;4
+20;Majewska Agata;wzorowe;5;;4;4;5;4;4;6;6;4;5;6;5;4;5;4;5;5;5;5
+21;Mesedi Anna;dobre;;;3;2;4;3;3;3;3;3;4;z;3;3;5;4;3;4;4;4
+22;Olszewska Zuzanna;wzorowe;;;4;5;6;3;3;5;6;5;5;5;5;5;5;4;5;5;5;4
+23;Panasiewicz Kinga Weronika;poprawne;;6;3;4;3;2;3;4;3;3;5;4;2;3;4;3;4;5;5;3
+24;Piotrowski Kamil;wzorowe;;;4;6;5;4;5;6;6;4;5;5;4;5;5;4;4;5;5;5
+25;Raczkiewicz Antoni;wzorowe;;;4;5;3;4;5;5;5;5;5;6;5;4;5;5;4;5;5;5
+26;Ratacki Kacper;bardzo dobre;;;4;5;5;3;3;6;5;4;5;5;4;4;5;4;4;4;5;4
+27;Rekowska Monika;wzorowe;6;;4;4;4;3;3;6;6;4;5;6;4;5;5;4;4;5;6;5
+28;Rorad B³a¿ej;wzorowe;;;5;4;5;4;4;6;5;5;5;6;5;4;5;4;5;5;5;6
+29;Starosiak Martyna;wzorowe;;;5;5;5;4;3;6;6;5;5;6;5;5;5;4;5;5;5;4
+30;Urban Eryk;bardzo dobre;;;4;5;4;3;3;4;4;3;4;6;4;4;4;4;5;4;4;3
+31;Waszak Anna;bardzo dobre;5;;5;5;6;3;3;5;4;4;5;6;4;5;5;4;4;5;5;5
+32;Wnuk Maria;wzorowe;;;5;5;3;4;4;5;6;5;5;6;5;5;5;4;5;5;6;5
+33;Wolna Julia;bardzo dobre;;;3;3;5;2;2;5;4;3;4;4;4;4;5;4;4;5;5;3
+34;WoŸniak Szymon;bardzo dobre;;;3;5;4;2;3;3;5;5;5;4;4;5;5;5;5;5;5;5

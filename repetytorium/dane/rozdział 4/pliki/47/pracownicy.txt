@@ -1,0 +1,41 @@
+id_pracownika	imie	nazwisko	email	nr_tel	data_urodzenia	id_stanowiska	p³aca	id_kierownika	id_dzia³u
+100	Steven	King	steven.king@pikpok.ue	515.123.4567	17.06.1987	4	24000		9
+101	Neena	Kochhar	neena.kochhar@pikpok.ue	515.123.4568	21.09.1989	5	17000	100	9
+102	Lex	De Haan	lex.de haan@pikpok.ue	515.123.4569	13.01.1993	5	17000	100	9
+103	Alexander	Hunold	alexander.hunold@pikpok.ue	590.423.4567	03.01.1990	9	9000	102	6
+104	Bruce	Ernst	bruce.ernst@pikpok.ue	590.423.4568	21.05.1991	9	6000	103	6
+105	David	Austin	david.austin@pikpok.ue	590.423.4569	25.06.1997	9	4800	103	6
+106	Valli	Pataballa	valli.pataballa@pikpok.ue	590.423.4560	05.02.1998	9	4800	103	6
+107	Diana	Lorentz	diana.lorentz@pikpok.ue	590.423.5567	07.02.1999	9	4200	103	6
+108	Nancy	Greenberg	nancy.greenberg@pikpok.ue	515.124.4569	17.08.1994	7	12000	101	10
+109	Daniel	Faviet	daniel.faviet@pikpok.ue	515.124.4169	16.08.1994	6	9000	108	10
+110	John	Chen	john.chen@pikpok.ue	515.124.4269	28.09.1997	6	8200	108	10
+111	Ismael	Sciarra	ismael.sciarra@pikpok.ue	515.124.4369	30.09.1997	6	7700	108	10
+112	Jose Manuel	Urman	jose manuel.urman@pikpok.ue	515.124.4469	07.03.1998	6	7800	108	10
+113	Luis	Popp	luis.popp@pikpok.ue	515.124.4567	07.12.1999	6	6900	108	10
+114	Den	Raphaely	den.raphaely@pikpok.ue	515.127.4561	07.12.1994	14	11000	100	3
+115	Alexander	Khoo	alexander.khoo@pikpok.ue	515.127.4562	18.05.1995	13	3100	114	3
+116	Shelli	Baida	shelli.baida@pikpok.ue	515.127.4563	24.12.1997	13	2900	114	3
+117	Sigal	Tobias	sigal.tobias@pikpok.ue	515.127.4564	24.07.1997	13	2800	114	3
+118	Guy	Himuro	guy.himuro@pikpok.ue	515.127.4565	15.11.1998	13	2600	114	3
+119	Karen	Colmenares	karen.colmenares@pikpok.ue	515.127.4566	10.08.1999	13	2500	114	3
+120	Matthew	Weiss	matthew.weiss@pikpok.ue	650.123.1234	18.07.1996	19	8000	100	5
+121	Adam	Fripp	adam.fripp@pikpok.ue	650.123.2234	10.04.1997	19	8200	100	5
+122	Payam	Kaufling	payam.kaufling@pikpok.ue	650.123.3234	01.05.1995	19	7900	100	5
+123	Shanta	Vollman	shanta.vollman@pikpok.ue	650.123.4234	10.10.1997	19	6500	100	5
+126	Irene	Mikkilineni	irene.mikilineni@pikpok.ue	650.124.1224	28.09.1998	18	2700	120	5
+145	John	Russell	john.russell@pikpok.ue		01.10.1996	15	14000	100	8
+146	Karen	Partners	karen.partners@pikpok.ue		05.01.1997	15	13500	100	8
+176	Jonathon	Taylor	jonathon.taylor@pikpok.ue		24.03.1998	16	8600	100	8
+177	Jack	Livingston	jack.livingston@pikpok.ue		23.04.1998	16	8400	100	8
+178	Kimberely	Grant	kimberely.grant@pikpok.ue		24.05.1999	16	7000	100	8
+179	Charles	Johnson	charles.johnson@pikpok.ue		04.01.2000	16	6200	100	8
+192	Sarah	Bell	sarah.bell@pikpok.ue	650.501.1876	04.02.1996	17	4000	123	5
+193	Britney	Everett	britney.everett@pikpok.ue	650.501.2876	03.03.1997	17	3900	123	5
+200	Jennifer	Whalen	jennifer.whalen@pikpok.ue	515.123.4444	17.09.1987	3	4400	101	1
+201	Michael	Hartstein	michael.hartstein@pikpok.ue	515.123.5555	17.02.1996	10	13000	100	2
+202	Pat	Fay	pat.fay@pikpok.ue	603.123.6666	17.08.1997	11	6000	201	2
+203	Susan	Mavris	susan.mavris@pikpok.ue	515.123.7777	07.06.1994	8	6500	101	4
+204	Hermann	Baer	hermann.baer@pikpok.ue	515.123.8888	07.06.1994	12	10000	101	7
+205	Shelley	Higgins	shelley.higgins@pikpok.ue	515.123.8080	07.06.1994	2	12000	101	11
+206	William	Gietz	william.gietz@pikpok.ue	515.123.8181	07.06.1994	1	8300	205	11

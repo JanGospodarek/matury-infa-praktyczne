@@ -1,0 +1,11 @@
+Id_pracownika;Nazwisko;Imiê
+p1;Bañka;Antoni
+p2;Golonka;Edward
+p3;Kaban;Wincenty
+p4;Knurewicz;Edgar
+p5;Prosiad³o;Beniamin
+p6;Swinid³o;Alfons
+p7;Szynka;Izabella
+p8;Trzoda;Walenty
+p9;Wieprzad³o;Ignacy
+p10;Karkówka;Eustachy

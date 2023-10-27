@@ -1,0 +1,5 @@
+id_kat	nazwa
+k1	ma³e
+k2	œrednie
+k3	du¿e
+k4	SUV

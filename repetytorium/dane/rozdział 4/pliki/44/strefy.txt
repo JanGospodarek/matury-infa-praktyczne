@@ -1,0 +1,6 @@
+id_strefy	nazwa
+1	miasto
+2	gmina
+3	województwo
+4	kraj
+5	zagranica

@@ -1,0 +1,933 @@
+Nr_medyczny;Nazwisko i Imiê;Pesel;Data_przyjêcia;Lekarz;Pomoc;Ubezpieczenie;Koszt leczenia
+1;Nowacka Alicja;56072152105;01.01.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+2;Kuczyñski Jonasz;21232153106;01.01.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+3;Kujawa Dariusz;03262057805;01.01.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+4;Buczek Czes³awa;53041002605;01.01.2021;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;1260
+5;Janas Adrian;77112303145;01.01.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+6;Sieradzka Weronika;83051913853;01.01.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+7;Zagórski Pawe³;69012422446;01.01.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+8;Roszkowska Anna;12312083367;01.01.2021;Piotrecki;Pomoc ambulatoryjna;NFZ;570
+9;Milewski Rados³aw;66050776007;02.01.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+10;Jagodziñski Filip;55032655317;02.01.2021;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+11;Robak Wiktor;30111018414;03.01.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+12;Biskup Jaros³awa;78051331189;03.01.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+13;¯ukowska Martyna;26111653362;04.01.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+14;Bilski Mateusz;46112236467;04.01.2021;Pielecka;Intensywna terapia;NFZ;2370
+15;Soko³owski B³a¿ej;90012551773;05.01.2021;Gronowski;Pomoc laryngologiczna;Abonament medyczny;690
+16;Konopka Zuzanna;60012318722;05.01.2021;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+17;WoŸniak Magdalena;42021887541;06.01.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+18;Wojciechowski Stefan;20301482109;06.01.2021;Kalinowska;Pomoc laryngologiczna;NFZ;690
+19;Skrzypczak Makary;87042476176;06.01.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+20;Rosiñska Weronika;69082023149;06.01.2021;Piotrecki;Pomoc laryngologiczna;Polisa zdrowotna;690
+21;Górecka Danuta;81041973214;07.01.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+22;Janowska Bo¿ena;40072785733;07.01.2021;Pielecka;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+23;Trojanowski Zdzis³aw;20232144251;07.01.2021;Maliñski;Intensywna terapia;Abonament medyczny;2370
+24;Paczkowska Marta;65011182804;07.01.2021;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+25;Stolarski Zygmunt;41052415583;07.01.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+26;Rzepecka Bernardyna;53060312862;07.01.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+27;Bia³ek Bernardyna;45082161676;08.01.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+28;Jêdrzejczyk Gabriela;20212555589;08.01.2021;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;1260
+29;Lis Blanka;75030875751;10.01.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+30;Skowron Ró¿a;53020775386;10.01.2021;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;1260
+31;Janiszewski Cezar;08311547368;12.01.2021;Kalinowska;Pomoc laryngologiczna;Polisa zdrowotna;690
+32;Misiak Wiktoria;89031856530;12.01.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+33;Augustyniak Gra¿yna;96052387725;16.01.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+34;Skoczylas Julia;15220658113;16.01.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+35;Kmieæ Rados³awa;52101160648;17.01.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+36;Kukla Zenona;51031966452;17.01.2021;Maliñski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+37;Œwi¹tek Martyna;33030465224;18.01.2021;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;1260
+38;£apiñski Patryk;64101907172;18.01.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+39;Chmura Sonia;40110274726;18.01.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+40;Reszka Gabriela;49050950309;18.01.2021;Pielecka;Intensywna terapia;Abonament medyczny;2370
+41;Piotrowska Emilia;22311201365;19.01.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+42;Wolski Miko³aj;61112252776;19.01.2021;Kalinowska;Intensywna terapia;NFZ;2370
+43;Pietrzyk Janusz;61110532506;19.01.2021;Micha³owski;Nastawianie z³amanej koœci;Pol-Plan Ubezpieczenia;1110
+44;Flis Czes³aw;12250565002;19.01.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+45;GwóŸdŸ Eliza;45092715883;20.01.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+46;Perkowska Oliwia;49052744014;20.01.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+47;Urbañski Albert;90100215563;23.01.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+48;Cichocki Piotr;38072070023;23.01.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+49;Frankowska Wiktoria;94100375436;23.01.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+50;Adamek Tymon;94092180366;23.01.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+51;Drabik Wies³aw;97060405603;24.01.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+52;Ambroziak Wiktor;64081002032;24.01.2021;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+53;G³adysz Alfred;63091828188;24.01.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+54;Grabowski Ryszarda;78102106287;25.01.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+55;Komorowski Adam;48060230254;25.01.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+56;Szyszka Jakub;27012515085;28.01.2021;Kosiñska;Pomoc ambulatoryjna;NFZ;570
+57;Adamczewska Wanda;19251131429;28.01.2021;Kosiñska;Pomoc okulistyczna;Polisa zdrowotna;930
+58;Koprowski Bruno;71052171675;28.01.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+59;Sroka Regina;50080487057;30.01.2021;Kosiñska;Intensywna terapia;NFZ;2370
+60;Gawe³ Justyna;92021412030;30.01.2021;Kalinowska;Intensywna terapia;NFZ;2370
+61;Borowska Eleonora;40062351151;02.02.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+62;Szostak Brygida;63091352810;02.02.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+63;Jaros Janina;19240861519;02.02.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+64;Kusiak Tymon;09241263304;02.02.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+65;Malicka Maja;81021947729;03.02.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+66;Dró¿d¿ Cezar;94102343303;03.02.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+67;Krasowska Maria;38020845336;03.02.2021;Gronowski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+68;Figura Zofia;60050107768;03.02.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+69;£oœ W³adys³awa;91082242224;03.02.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+70;Kasprzyk Natalia;71062276586;04.02.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+71;Krupiñski Borys;87042450082;04.02.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+72;Kêpa Juliusz;09280383517;04.02.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+73;ŒledŸ Eugenia;19240830106;04.02.2021;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;1260
+74;Rutkowski Micha³;17231561024;05.02.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+75;Zawada Miko³aj;80050350416;05.02.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+76;Ko³odziej Marek;83030640246;06.02.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+77;Kostrzewa Wac³aw;01282578065;06.02.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+78;Kruszewska Maria;64061466184;06.02.2021;Kalinowska;Pomoc okulistyczna;NFZ;930
+79;Szczêsna Mateusz;61092104849;06.02.2021;Maliñski;Intensywna terapia;Pol-Plan Ubezpieczenia;2370
+80;Œwi¹tkowska Maja;09232055451;06.02.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+81;Polañska Martyna;31052552634;06.02.2021;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+82;Kuliñski Miko³aj;98042164008;08.02.2021;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+83;Borys Ryszarda;88042226068;08.02.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+84;Nowak Bart³omiej;44100532485;09.02.2021;Kalinowska;Pomoc laryngologiczna;NFZ;690
+85;Staniszewski Robert;80061935554;09.02.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+86;Mrozek Amelia;40030483653;12.02.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+87;Duszyñska Anna;79050183111;12.02.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+88;Cichosz Stefan;53090687572;12.02.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+89;Nadolska Maja;66092518818;12.02.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+90;Wierzbicki Filip;89030670858;13.02.2021;Maliñski;Intensywna terapia;Abonament medyczny;2370
+91;Zaborowska Alicja;65051945546;13.02.2021;Bobrzyñski;Pomoc ambulatoryjna;Abonament medyczny;570
+92;Dec Albert;35111114313;14.02.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+93;Rusin Matylda;89071957853;14.02.2021;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+94;Mackiewicz Zuzanna;27031645671;14.02.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+95;Sojka Julia;92100521468;14.02.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+96;Bobrowski Wac³awa;89012765266;14.02.2021;Pielecka;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+97;Kolasiñska Gabriela;68061270086;14.02.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+98;Pasek Matylda;11270162204;14.02.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+99;Wiœniowski Gustaw;63040681846;14.02.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+100;Kowalczyk Weronika;55110453772;15.02.2021;Pielecka;Intensywna terapia;NFZ;2370
+101;Szyd³owska Blanka;64052247329;15.02.2021;Bobrzyñski;Intensywna terapia;NFZ;2370
+102;Chmiel Ewelina;63070574453;15.02.2021;Maliñski;Pomoc kardiologiczna;Abonament medyczny;1260
+103;Kubica Monika;74061183284;15.02.2021;Kosiñska;Pomoc ambulatoryjna;NFZ;570
+104;Kubicki Igor;03250753528;17.02.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+105;S³owiñska Ró¿a;59040466066;17.02.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+106;Kwiecieñ Jerzy;04301567174;18.02.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+107;Bochenek Dariusz;18250301152;18.02.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+108;Kawecka Renata;65062274651;18.02.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+109;Jaroszewska Lena;43100983536;18.02.2021;Piotrecki;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+110;¯ak Sylwia;54100441236;20.02.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+111;Burzyñska Diana;09252602846;20.02.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+112;Cichy Zuzanna;49020746237;20.02.2021;Micha³owski;Intensywna terapia;NFZ;2370
+113;Piechocka Patrycja;77072310384;20.02.2021;Kosiñska;Szycie ran;NFZ;510
+114;Jasiñska Lena;48100727328;21.02.2021;Kalinowska;Nastawianie z³amanej koœci;NFZ;1110
+115;Urban Aleksandra;25061186661;21.02.2021;Piotrecki;Pomoc ambulatoryjna;Abonament medyczny;570
+116;Romanowska Magdalena;23070573876;21.02.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+117;Madej Rados³awa;99111273128;21.02.2021;Maliñski;Intensywna terapia;NFZ;2370
+118;Krawiec Szymon;68031702126;21.02.2021;Gronowski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+119;£ukasiewicz Rados³awa;37042510389;21.02.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+120;¯muda Maja;15260663238;21.02.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+121;Dziuba Mariusz;07310513345;21.02.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+122;Pi³at Marta;29060763762;21.02.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+123;Wojtkowiak Lena;73070274017;21.02.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+124;Kos Borys;01311327345;21.02.2021;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+125;Turowski Maciej;47042306271;21.02.2021;Kalinowska;Nastawianie z³amanej koœci;Pol-Plan Ubezpieczenia;1110
+126;£awniczak Bo¿ydar;16272014221;21.02.2021;Pielecka;Pomoc okulistyczna;Abonament medyczny;930
+127;Olech Zuzanna;10222164882;21.02.2021;Bobrzyñski;Pomoc ambulatoryjna;NFZ;570
+128;Partyka Marcin;03280162750;22.02.2021;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;690
+129;Prus Paulina;62031655729;22.02.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+130;Ryœ Zbigniew;85050646385;22.02.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+131;Brodowski Bruno;01290437105;22.02.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+132;Nowicki Bartosz;16270641160;23.02.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+133;Banach Alina;19251757638;23.02.2021;Kosiñska;Intensywna terapia;NFZ;2370
+134;Makowska Józefina;06250442265;24.02.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+135;Olejnik Aleksy;55070802012;24.02.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+136;Szymczyk Bo¿ydar;30082474280;24.02.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+137;£ukaszewska Julia;82072583546;24.02.2021;Bobrzyñski;Pomoc laryngologiczna;Polisa zdrowotna;690
+138;Jagielska Ada;17210722149;24.02.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+139;Doliñska Aldona;31030477072;24.02.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+140;Jakubowska Natalia;89110904372;25.02.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+141;Leœniewski Bogus³aw;83020864041;25.02.2021;Kalinowska;Szycie ran;NFZ;510
+142;Stanek Filip;25012107723;25.02.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+143;Wo³oszyn Dawid;80050908770;25.02.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+144;Balicka S³awomira;56051031254;25.02.2021;Pielecka;Pomoc laryngologiczna;Abonament medyczny;690
+145;Jankowska Wanda;74080303263;26.02.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+146;Janik Bo¿ena;55091278216;26.02.2021;Pielecka;Pomoc ambulatoryjna;Polisa zdrowotna;570
+147;Cichoñ Micha³;89022561672;26.02.2021;Pielecka;Pomoc ambulatoryjna;NFZ;570
+148;Grzesiak Aleksander;00211924580;26.02.2021;Kosiñska;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+149;Fr¹tczak El¿bieta;75090851207;28.02.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+150;Stawicki Radomir;41021143532;28.02.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+151;Filip Jan;98031332131;28.02.2021;Gronowski;Intensywna terapia;NFZ;2370
+152;Franczak Wac³awa;64020186346;28.02.2021;Kalinowska;Intensywna terapia;NFZ;2370
+153;Lewicki Maksymilian;51061841778;01.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+154;Iwañska Ryszarda;78032046466;01.03.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+155;Kowalczuk Oliwia;23052322247;01.03.2021;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;690
+156;Korczak Oliwia;80102780822;01.03.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+157;Skowroñski Boles³w;93072131448;02.03.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+158;Bujak Rozalia;41111570354;02.03.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+159;Stachurska Magdalena;64011761321;03.03.2021;Kalinowska;Intensywna terapia;Polisa zdrowotna;2370
+160;Tkacz Dawid;94060404465;03.03.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+161;Owczarek Robert;40111788352;04.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+162;Mas³owska Ewa;25070603463;04.03.2021;Kalinowska;Intensywna terapia;NFZ;2370
+163;Surma Stanis³aw;22291134280;04.03.2021;Piotrecki;Szycie ran;NFZ;510
+164;Pucha³a Eliza;38021551869;04.03.2021;Bobrzyñski;Nastawianie z³amanej koœci;NFZ;1110
+165;Tomaszewski Witold;08211865667;05.03.2021;Pielecka;Intensywna terapia;NFZ;2370
+166;Strzelecki Aleksander;54040270835;05.03.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+167;Augustyn Bartosz;70071418480;05.03.2021;Kosiñska;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+168;Warzecha Stefan;19232717619;05.03.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+169;Pawlak Matylda;36071524468;06.03.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+170;Bieniek Stanis³aw;56112327553;06.03.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+171;Œwierczyñska Julia;78020268834;07.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+172;Porêbska Dagmara;01260605419;07.03.2021;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;1260
+173;Sêk Emilia;48052351279;07.03.2021;Kalinowska;Intensywna terapia;Polisa zdrowotna;2370
+174;Ko³odziejczak Damian;28022331876;07.03.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+175;Kawalec Józefina;54112033847;07.03.2021;Kalinowska;Pomoc okulistyczna;NFZ;930
+176;Niemiec Dawid;73031341673;08.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+177;Czechowska Anna;61020466883;08.03.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+178;Wojtasik Wiktor;48030248481;09.03.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+179;Gliñski Mateusz;13241364613;09.03.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+180;Marciniak Jan;71070905227;10.03.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+181;Mielczarek Zbigniew;25041114376;10.03.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+182;Bielak Sylwia;30112007549;10.03.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+183;Królak Jakub;69011408515;10.03.2021;Bobrzyñski;Nastawianie z³amanej koœci;NFZ;1110
+184;Czajka Mateusz;80092413836;11.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+185;Bukowska Nikola;45030971269;11.03.2021;Pielecka;Intensywna terapia;NFZ;2370
+186;Krakowiak Patryk;28050965777;11.03.2021;Gronowski;Intensywna terapia;Abonament medyczny;2370
+187;Kopczyñska Weronika;14290406020;11.03.2021;Piotrecki;Pomoc ambulatoryjna;Polisa zdrowotna;570
+188;Zdunek Matylda;36111556022;11.03.2021;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;1260
+189;Piêtka El¿bieta;38032000660;11.03.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+190;Weso³owska Marcelina;82040631514;12.03.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+191;Brzozowska Magdalena;04240668020;12.03.2021;Piotrecki;Intensywna terapia;NFZ;2370
+192;Drzewiecka Zofia;74090325323;12.03.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+193;G¹sior Rozalia;71030443327;12.03.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+194;D¹bkowska Weronika;12281702403;12.03.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+195;Jurkowska Magdalena;99072155303;12.03.2021;Micha³owski;Intensywna terapia;NFZ;2370
+196;Pogorzelska Gabriela;85020436712;12.03.2021;Gronowski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+197;Karcz Dagmara;28081060153;12.03.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+198;Œliwiñska Natalia;76040357484;13.03.2021;Kalinowska;Nastawianie z³amanej koœci;Polisa zdrowotna;1110
+199;Ka³u¿a Dawid;76012274409;13.03.2021;Piotrecki;Szycie ran;Abonament medyczny;510
+200;Stefaniak Agata;03270976639;14.03.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+201;Jaœkiewicz Bo¿ydar;24030913688;14.03.2021;Micha³owski;Intensywna terapia;NFZ;2370
+202;Micha³ek W³odzimierz;26101010524;15.03.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+203;Szuba Piotr;86110420538;15.03.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+204;Adamski Antoni;34090213752;16.03.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+205;Witczak Adela;71081227073;16.03.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+206;Pawlik Eugenia;61081928364;17.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+207;Lipska Daria;12292176734;17.03.2021;Gronowski;Intensywna terapia;NFZ;2370
+208;Wawrzyniak Martyna;67091420661;18.03.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+209;Cygan Bartosz;48050613272;18.03.2021;Kosiñska;Intensywna terapia;NFZ;2370
+210;D¹browski Bartosz;88070461477;19.03.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+211;Ziêba Magdalena;28050943052;19.03.2021;Gronowski;Intensywna terapia;Polisa zdrowotna;2370
+212;Rudnicka Magdalena;24112437477;19.03.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+213;Filipek Sebastian;77052176771;19.03.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+214;Niedzielska Aleksandra;66092084421;19.03.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+215;KuŸma Maksym;91112770611;19.03.2021;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;690
+216;Kozera Hanna;86031758701;19.03.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+217;Nawrocka Emilia;70101940185;20.03.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+218;Zarêba Zuzanna;09311028181;20.03.2021;Maliñski;Pomoc kardiologiczna;Abonament medyczny;1260
+219;Grzywacz Igor;54070142858;20.03.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+220;Kita Gabriela;70071918133;20.03.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+221;Sobañska Wiktoria;54082605785;20.03.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+222;Werner Stanis³aw;80021124314;20.03.2021;Pielecka;Pomoc laryngologiczna;Abonament medyczny;690
+223;Brzeski Czes³aw;67042124880;20.03.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+224;Duda W³adys³aw;33042228459;21.03.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+225;B¹k Cyprian;75072261068;21.03.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+226;Œliwa Renata;90050883443;21.03.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+227;Kaczyñska Amanda;24101672447;21.03.2021;Gronowski;Szycie ran;NFZ;510
+228;Grzelak Micha³;49102201067;22.03.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+229;Skibiñski Zygmunt;31041332320;22.03.2021;Kosiñska;Intensywna terapia;NFZ;2370
+230;Rudzka Monika;61082001701;22.03.2021;Micha³owski;Pomoc laryngologiczna;Abonament medyczny;690
+231;Jaskulski Roksana;06221564839;22.03.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+232;Kotowska Amelia;81050252388;23.03.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+233;Roman Maria;24010567267;23.03.2021;Pielecka;Pomoc ambulatoryjna;Abonament medyczny;570
+234;Król Amelia;91091918154;25.03.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+235;Jaworska Bogna;09250202246;25.03.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+236;Sadowski Miko³aj;81100566551;25.03.2021;Gronowski;Pomoc laryngologiczna;Polisa zdrowotna;690
+237;Osiñski Przemys³aw;61041937058;25.03.2021;Bobrzyñski;Pomoc laryngologiczna;Polisa zdrowotna;690
+238;Gruszka Gabriela;66100508729;25.03.2021;Bobrzyñski;Pomoc ambulatoryjna;NFZ;570
+239;Siwek Bohdan;47070218434;25.03.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+240;Janiak Stanis³aw;29021903619;25.03.2021;Bobrzyñski;Nastawianie z³amanej koœci;NFZ;1110
+241;G¹siorowska Weronika;39082175610;25.03.2021;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;1260
+242;Flak Wojciech;18221533016;25.03.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+243;Tokarz Wiktor;57031440471;25.03.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+244;Janicki Jakub;92061900249;26.03.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+245;Jêdrzejczak Ryszard;06250831351;26.03.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+246;Januszewski Czes³aw;09220542710;26.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+247;Kozik Maciej;68070340123;26.03.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+248;Sosnowski Radomir;01242468160;27.03.2021;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;690
+249;Nowaczyk Martyna;22302222803;27.03.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+250;Kuchta Aleksander;84080740672;27.03.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+251;Bia³kowski Wojciech;64011186252;27.03.2021;Maliñski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+252;Bury Martyna;54080730535;27.03.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+253;Wyrzykowski Adam;22301758033;27.03.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+254;Tomczyk Aleksandra;10230541228;28.03.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+255;Bogucka Brygida;03292535751;28.03.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+256;Bednarek Bruno;77082357643;29.03.2021;Bobrzyñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+257;Kêdzierski Dariusz;99012662623;29.03.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+258;Bielawski Filip;78031244254;29.03.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+259;Œlusarczyk Dorota;41012450531;29.03.2021;Pielecka;Intensywna terapia;Abonament medyczny;2370
+260;Lipka Eleonora;53031772840;29.03.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+261;Jeziorski Maksymilian;78051654073;29.03.2021;Kosiñska;Pomoc ambulatoryjna;NFZ;570
+262;Ciesielski Adam;12222730328;31.03.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+263;Michalik Oliwia;30041932578;31.03.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+264;¯ebrowska Wioletta;69080406467;31.03.2021;Gronowski;Pomoc laryngologiczna;Abonament medyczny;690
+265;Milczarek Alicja;59092312186;31.03.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+266;Kogut Szymon;41030487814;31.03.2021;Bobrzyñski;Intensywna terapia;NFZ;2370
+267;Lachowicz Maciej;04250615580;31.03.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+268;Stachowiak W³adys³aw;30091615623;01.04.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+269;Adamczak Grzegorz;42051960418;01.04.2021;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;690
+270;Warcho³ Sandra;17232161827;01.04.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+271;Suchecki Dawid;44022132170;01.04.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+272;Szewczyk Marta;35110254542;04.04.2021;Kosiñska;Pomoc okulistyczna;Abonament medyczny;930
+273;Ptak Szymon;91012781537;04.04.2021;Piotrecki;Pomoc ambulatoryjna;NFZ;570
+274;Majchrzak Jan;13261517846;05.04.2021;Pielecka;Intensywna terapia;Polisa zdrowotna;2370
+275;Marczak Pelagia;24062422730;05.04.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+276;Wêgrzyn Makary;00221984107;05.04.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+277;Piwowarczyk Jadwiga;19270104525;05.04.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+278;Rybarczyk Bruno;91072626663;05.04.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+279;Kapuœciñski Remigiusz;20220255536;05.04.2021;Gronowski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+280;Czajkowski Witold;05220773761;06.04.2021;Piotrecki;Pomoc okulistyczna;Abonament medyczny;930
+281;Maliszewski Szymon;72012207403;06.04.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+282;Krajewski Marek;73100756854;08.04.2021;Piotrecki;Pomoc ambulatoryjna;NFZ;570
+283;Gawroñski Maciej;17230642706;08.04.2021;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+284;Morawski Dawid;86051766407;09.04.2021;Piotrecki;Pomoc okulistyczna;Abonament medyczny;930
+285;Pop³awski Juliusz;53030701733;09.04.2021;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+286;Staszewska Maja;27071927085;09.04.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+287;Szwed Józefina;72050943314;09.04.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+288;Kwieciñski S³awa;60020752279;09.04.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+289;£ukaszewicz Nikola;72110441637;09.04.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+290;Wdowiak Makary;95051500340;09.04.2021;Bobrzyñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+291;Stasiak Bartosz;31102462454;12.04.2021;Piotrecki;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+292;Kwaœniewski Patryk;62062464408;12.04.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+293;Jab³oñska Edyta;59060463331;13.04.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+294;Czy¿ Wies³aw;64060852186;13.04.2021;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;930
+295;Przyby³a Roksana;54110884827;13.04.2021;Kosiñska;Intensywna terapia;Abonament medyczny;2370
+296;Dudziak Bogna;03262040706;13.04.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+297;Miller Miko³aj;56042765827;13.04.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+298;Solecki Maksymilian;38081776570;13.04.2021;Kosiñska;Pomoc ambulatoryjna;Polisa zdrowotna;570
+299;Przybylski Maksym;81090377823;14.04.2021;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;1260
+300;Witek Robert;41082023176;14.04.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+301;Szczepanik Alicja;14250751515;14.04.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+302;Stêpniak Zenon;79061416787;14.04.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+303;Jarz¹bek Rados³aw;44070842483;14.04.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+304;Kêpka Kacper;70112210453;14.04.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+305;Wysocki Patryk;14311166243;15.04.2021;Maliñski;Intensywna terapia;NFZ;2370
+306;Dobosz Maciej;69082517800;15.04.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+307;Tracz Damian;01260125823;15.04.2021;Kalinowska;Nastawianie z³amanej koœci;NFZ;1110
+308;Bugaj Piotr;41062230420;15.04.2021;Bobrzyñski;Intensywna terapia;NFZ;2370
+309;JóŸwiak Blanka;37051984261;16.04.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+310;Ga³¹zka Szymon;23111177106;16.04.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+311;Michalczyk Nikola;15241342138;18.04.2021;Kalinowska;Nastawianie z³amanej koœci;Polisa zdrowotna;1110
+312;Gut Stefan;57020957131;18.04.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+313;Murawska Oliwia;04260965471;20.04.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+314;Kapusta Piotr;48021926787;20.04.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+315;Górny Patrycja;69072264107;20.04.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+316;Kulig Roman;80060715487;20.04.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+317;Szymanek Dawid;27100287579;20.04.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+318;Kruczek Remigiusz;80060533616;20.04.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+319;Kolasa Jacek;93072037812;21.04.2021;Piotrecki;Pomoc laryngologiczna;Abonament medyczny;690
+320;Kosmala Roman;74100662587;21.04.2021;Gronowski;Intensywna terapia;Abonament medyczny;2370
+321;Krukowski Alfred;10212004831;22.04.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+322;Majkowski Miko³aj;29011822234;22.04.2021;Piotrecki;Nastawianie z³amanej koœci;NFZ;1110
+323;Ziêtek Boles³w;45061480015;23.04.2021;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+324;Szot Monika;28052251748;23.04.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+325;Kania Wis³awa;21212474782;24.04.2021;Bobrzyñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+326;Kula Justyna;48110736307;24.04.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+327;Motyka Mariusz;30080918412;24.04.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+328;Izdebska Martyna;48012322277;24.04.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+329;Lewiñska Martyna;36030642787;24.04.2021;Bobrzyñski;Szycie ran;NFZ;510
+330;Domagalski Kacper;88090721805;24.04.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+331;Matuszewska Marcelina;20252303834;25.04.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+332;Lach Sandra;15220946263;25.04.2021;Micha³owski;Pomoc laryngologiczna;NFZ;690
+333;Banasik Renata;02251305536;25.04.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+334;Piwowarski Rados³awa;78011826458;25.04.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+335;Sobolewska Ró¿a;21300440035;26.04.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+336;Matysiak Wiktoria;81111572383;26.04.2021;Gronowski;Intensywna terapia;NFZ;2370
+337;Sobieraj Maria;12250511423;26.04.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+338;Zygmunt Hanna;33011273488;26.04.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+339;Szymczak Sonia;04211314538;27.04.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+340;Pa³ka W³odzimierz;66080905507;27.04.2021;Kosiñska;Pomoc okulistyczna;Abonament medyczny;930
+341;Barañski Joachim;49021501150;28.04.2021;Kosiñska;Pomoc ambulatoryjna;Polisa zdrowotna;570
+342;Kmiecik Miko³aj;22231132411;28.04.2021;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+343;Chojnowski Dominik;30042355680;28.04.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+344;Ro¿ek Micha³;76010755777;28.04.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+345;Wi¹cek Makary;07311872472;29.04.2021;Maliñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+346;Lenart Patryk;71050264384;29.04.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+347;Plichta Lena;73070953354;29.04.2021;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+348;Bojarski Patryk;29031965405;29.04.2021;Pielecka;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+349;Kobus Roman;00211376349;01.05.2021;Maliñski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+350;Rusek Weronika;56011953114;01.05.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+351;Pietrzak Marianna;71101027661;02.05.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+352;Dobrowolski Maksymilian;59010463183;02.05.2021;Kalinowska;Pomoc okulistyczna;Abonament medyczny;930
+353;Zarzycki Mateusz;40032122835;02.05.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+354;Pawelec Adam;53112128337;02.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+355;Mroczkowski Piotr;46041045664;04.05.2021;Gronowski;Intensywna terapia;NFZ;2370
+356;Tomasik Igor;88051936765;04.05.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+357;Bugajski Patryk;53091505851;04.05.2021;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+358;Chojnacka Danuta;26071013606;05.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+359;Kaczorowska Stella;65072261434;05.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+360;Rudziñska Maria;93031321248;06.05.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+361;Wojtowicz Wiktoria;90010620208;06.05.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+362;Smoliñski Mateusz;03222038165;07.05.2021;Kalinowska;Pomoc ambulatoryjna;Polisa zdrowotna;570
+363;Misztal Mateusz;83042306316;07.05.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+364;Janusz Aleksandra;02311042489;08.05.2021;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;1260
+365;Kujawski Jakub;76041366614;08.05.2021;Micha³owski;Pomoc laryngologiczna;NFZ;690
+366;Szopa Regina;41071710803;08.05.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+367;Nalepa Makary;17282600323;08.05.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+368;Kaczmarek Piotr;46100724826;09.05.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+369;¯urek Marianna;47080474518;09.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+370;Dudzik Wiktor;25092541701;11.05.2021;Micha³owski;Intensywna terapia;NFZ;2370
+371;Molenda Wojciech;27021936709;11.05.2021;Pielecka;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+372;Pietruszka Marianna;12211604746;11.05.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+373;NiedŸwiecki Emil;15290970881;11.05.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+374;Dzikowska Martyna;30080885239;11.05.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+375;Kopacz Brygida;05251686779;11.05.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+376;Paradowska Roksana;33020818212;11.05.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+377;Piech Zuzanna;19301355803;11.05.2021;Kalinowska;Pomoc okulistyczna;NFZ;930
+378;Matczak Dawid;18311170286;11.05.2021;Kalinowska;Intensywna terapia;NFZ;2370
+379;Pisarek Julia;26052586671;11.05.2021;Gronowski;Intensywna terapia;Polisa zdrowotna;2370
+380;Kalinowska Emilia;86040267281;12.05.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+381;Zaremba Natalia;57111687086;12.05.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+382;Ostrowski Jakub;98051037007;14.05.2021;Gronowski;Pomoc laryngologiczna;Abonament medyczny;690
+383;Zió³kowski Kacper;53092582455;14.05.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+384;Czech Aleksander;50041181758;14.05.2021;Bobrzyñski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+385;Cieœla Micha³;75011208215;14.05.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+386;Janus Dagmara;59031875453;14.05.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+387;Gutowska Amelia;67020537136;14.05.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+388;Mucha Bo¿ena;70062700204;15.05.2021;Maliñski;Intensywna terapia;NFZ;2370
+389;Bielecka Wiktoria;19300515110;15.05.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+390;Radomska Emilia;10282245286;15.05.2021;Pielecka;Intensywna terapia;NFZ;2370
+391;Krysiak Julia;81020421402;15.05.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+392;Wójtowicz Maja;58100800031;16.05.2021;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+393;Ciszewski Bernard;33010583247;16.05.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+394;Czerniak Aldona;89012612124;17.05.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+395;B³aszczak Natalia;85051410606;17.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+396;Olczyk Blanka;18281015464;17.05.2021;Micha³owski;Pomoc okulistyczna;Polisa zdrowotna;930
+397;Czapliñski Miko³aj;42041211803;17.05.2021;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;1260
+398;Walczak Igor;05252276029;18.05.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+399;Rak Bartosz;43112761816;18.05.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+400;B³aszczyk Wanda;54080430589;19.05.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+401;Kaleta Jakub;39011421227;19.05.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+402;Olejniczak Marcelina;87051202155;20.05.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+403;Pietras B³a¿ej;54021821816;20.05.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+404;Jackowska Maria;09210221018;20.05.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+405;Bielski Emil;08270113521;20.05.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+406;Stachowski Dominik;01240522017;20.05.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+407;Konieczny Edward;14301255436;22.05.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+408;Matuszak Alicja;53051205153;22.05.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+409;Stachowicz Wiktor;07311458535;22.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+410;Knap Szymon;84102581537;22.05.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+411;Buczkowski Igor;95011343729;23.05.2021;Maliñski;Pomoc kardiologiczna;Abonament medyczny;1260
+412;Nowiñska Zuzanna;48052780503;23.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+413;Karolak Jan;26031271725;23.05.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+414;Kupiec Nikola;87071578759;23.05.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+415;Kucharski Sebastian;11271226776;24.05.2021;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;690
+416;Kuœ Gra¿yna;04230206304;24.05.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+417;B¹kowski Szymon;76062460883;25.05.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+418;Sidor Wojciech;93062312880;25.05.2021;Kosiñska;Pomoc okulistyczna;Polisa zdrowotna;930
+419;Gadomska Zofia;79080614720;26.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+420;Kaliñska Stefania;92010582335;26.05.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+421;Urbanowicz Wiktoria;51012742813;27.05.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+422;Marchewka Damian;96012634489;27.05.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+423;¯y³a Wojciech;08312282219;27.05.2021;Bobrzyñski;Szycie ran;Abonament medyczny;510
+424;Ossowski Marcin;34061623001;27.05.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+425;Kraszewski Jacek;62050226658;27.05.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+426;Kozakiewicz Aleksandra;09270583138;27.05.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+427;Stêpniewski Miko³aj;09212088208;27.05.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+428;KaŸmierski Dominik;63111044707;27.05.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+429;So³tysiak Pelagia;33061328701;29.05.2021;Gronowski;Intensywna terapia;Polisa zdrowotna;2370
+430;Ferenc Micha³;04232121610;29.05.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+431;Bednarski Zenon;84011382748;31.05.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+432;Tarnowski B³a¿ej;60092784510;31.05.2021;Piotrecki;Intensywna terapia;NFZ;2370
+433;Aleksandrowicz Adela;45021728777;02.06.2021;Micha³owski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+434;Kurzawa Filip;21272211318;02.06.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+435;Polak Eugeniusz;09291852253;03.06.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+436;Falkowski Filip;45020125063;03.06.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+437;Pawlicki Kacper;28090438770;04.06.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+438;Krauze Wojciech;93020811721;04.06.2021;Kalinowska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+439;Wrona Julia;17240710888;05.06.2021;Maliñski;Szycie ran;NFZ;510
+440;Mika Igor;98020166475;05.06.2021;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;690
+441;Szel¹g Bogus³aw;50052764818;05.06.2021;Kosiñska;Intensywna terapia;NFZ;2370
+442;Szarek Micha³;63072014076;05.06.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+443;Kowalik Emil;07242044201;06.06.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+444;Rosiak Sonia;93080632751;06.06.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+445;Florek Amanda;19220837422;06.06.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+446;Malik Edward;75050684713;06.06.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+447;Wachowiak Amelia;87032243438;06.06.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+448;G³owacka Alicja;82030183058;08.06.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+449;Fr¹ckowiak Wiktor;34061146609;08.06.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+450;Stêpieñ Bernard;96062100844;09.06.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+451;Kulik Nikola;41052485065;09.06.2021;Gronowski;Szycie ran;Pol-Plan Ubezpieczenia;510
+452;Chudzik Hanna;75041434842;10.06.2021;Micha³owski;Pomoc laryngologiczna;NFZ;690
+453;Barszcz Bartosz;31111260603;10.06.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+454;Cybulski Jeremiasz;45070254773;11.06.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+455;Wilczek Julia;68052430277;11.06.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+456;Góral Anna;29021271350;11.06.2021;Piotrecki;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+457;Wojda Juliusz;93102664267;11.06.2021;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+458;Królik Czes³awa;17241426083;11.06.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+459;Paszkowska Wis³awa;35010484689;12.06.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+460;Grzeœkowiak Gabriela;73030823224;12.06.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+461;Studziñska Alina;83051966806;12.06.2021;Kosiñska;Pomoc ambulatoryjna;NFZ;570
+462;Antoniak Cyprian;86080120876;12.06.2021;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+463;Wagner Marianna;60051506351;12.06.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+464;Krawczyk Filip;68022144775;13.06.2021;Piotrecki;Intensywna terapia;NFZ;2370
+465;Jarosz Zdzis³aw;98041050364;13.06.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+466;Kaczor Jonatan;93030554573;13.06.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+467;¯urawski Wojciech;79022158273;13.06.2021;Kalinowska;Intensywna terapia;NFZ;2370
+468;Wiêckowska Lena;67011170711;13.06.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+469;Adamus Wies³aw;74081407737;13.06.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+470;Szczêsny Ryszarda;69071554663;13.06.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+471;Mielcarek Kacper;00240361246;13.06.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+472;Herman Jan;38111126432;14.06.2021;Micha³owski;Intensywna terapia;NFZ;2370
+473;Æwikliñska Anna;16251081617;14.06.2021;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;930
+474;Zakrzewski Szymon;81052742715;16.06.2021;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+475;£uczak Bernard;55031866682;16.06.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+476;Czy¿ewska Aldona;95062775302;16.06.2021;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+477;W¹sik Ma³gorzata;14221632144;16.06.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+478;Zab³ocka Bo¿ena;53092347034;19.06.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+479;Olszak Wies³awa;81102246620;19.06.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+480;Wójcik Weronika;63080925755;22.06.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+481;Pi¹tkowski Piotr;65062031379;22.06.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+482;Rosa Cyprian;14291483624;22.06.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+483;Rybka Alicja;87062275586;22.06.2021;Kosiñska;Pomoc ambulatoryjna;NFZ;570
+484;Wolny Maksymilian;49100254760;23.06.2021;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+485;Niezgoda Martyna;60052318146;23.06.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+486;Pluta Paulina;44111935882;24.06.2021;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+487;Stec Mariusz;07282004418;24.06.2021;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+488;Krzemiñski Marek;97082038836;25.06.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+489;Dobrzyñski Witold;77030635421;25.06.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+490;Mróz Miko³aj;72060264535;26.06.2021;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;1260
+491;Tkaczyk Bernardyna;25021857309;26.06.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+492;Urbanek Makary;32102683667;26.06.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+493;Górna Tomasz;70080253560;26.06.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+494;Sawicka Sabina;22282041564;27.06.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+495;Panek Dominik;54080512407;27.06.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+496;Niemczyk Bartosz;97011940807;27.06.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+497;Rudnik Filip;49021883348;27.06.2021;Maliñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+498;Wielgus Miko³aj;22301455107;27.06.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+499;Majewski Adam;45051383614;28.06.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+500;Banaœ Bohdan;53072026539;28.06.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+501;Kacprzak Szymon;49100805836;29.06.2021;Maliñski;Pomoc ambulatoryjna;NFZ;570
+502;Kaczmarski Cezar;38111076034;29.06.2021;Micha³owski;Intensywna terapia;NFZ;2370
+503;Cieœlak Aleksy;84032728783;30.06.2021;Maliñski;Nastawianie z³amanej koœci;NFZ;1110
+504;S³owik Wiktor;36041761147;30.06.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+505;Siedlecki Dawid;33070552441;30.06.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+506;Grudziñski Bart³omiej;32082263637;30.06.2021;Kosiñska;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+507;Piskorz Mateusz;43080317860;30.06.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+508;Paj¹k Mateusz;79052546101;01.07.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+509;Pilarska Dominika;57060652566;01.07.2021;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;1260
+510;W³odarska Amanda;14281335579;02.07.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+511;Ratajczyk Dawid;30101238024;02.07.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+512;Œpiewak Eleonora;65081865586;02.07.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+513;G³¹b Paula;64030205356;03.07.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+514;Czarnota Mariusz;98032460066;03.07.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+515;Wolak Julia;20270870886;04.07.2021;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+516;Makuch Zofia;80061852574;04.07.2021;Gronowski;Pomoc okulistyczna;Polisa zdrowotna;930
+517;Baran Adam;14282635487;05.07.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+518;Mazurek Martyna;88092715064;05.07.2021;Bobrzyñski;Pomoc ambulatoryjna;Polisa zdrowotna;570
+519;Cieœlik Alina;63041907145;05.07.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+520;D³ugosz Emilia;80012502169;05.07.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+521;Fija³kowska Celina;06210555363;05.07.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+522;Twardowski Szymon;74111114459;05.07.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+523;Paw³owski Dominik;36030730581;08.07.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+524;Go³êbiewski Robert;39081844580;08.07.2021;Kalinowska;Pomoc laryngologiczna;NFZ;690
+525;Golec Patrycja;15312415015;08.07.2021;Piotrecki;Intensywna terapia;Polisa zdrowotna;2370
+526;Romañska Eugenia;55110300722;08.07.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+527;Zieliñski Maciej;64041637065;09.07.2021;Piotrecki;Pomoc laryngologiczna;Abonament medyczny;690
+528;Biernacki Szymon;71102787520;09.07.2021;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+529;Kruk Weronika;68030123849;10.07.2021;Kalinowska;Pomoc laryngologiczna;NFZ;690
+530;Wnuk Hanna;47072213857;10.07.2021;Kosiñska;Intensywna terapia;NFZ;2370
+531;Kasprzak Marta;94070601009;11.07.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+532;Wroñska Joanna;62100981818;11.07.2021;Piotrecki;Pomoc ambulatoryjna;NFZ;570
+533;P³onka Adrian;31011015255;11.07.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+534;Lipiec Piotr;02221736739;11.07.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+535;Szatkowski Matylda;87080168613;13.07.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+536;Pe³ka Ewa;19281568754;13.07.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+537;Szwarc Stella;70090840208;14.07.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+538;Kempa Weronika;23050382407;14.07.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+539;JóŸwik Gabriela;81110176229;16.07.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+540;Zarêbska Julia;58021488200;16.07.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+541;Wasilewski Mateusz;32090257532;17.07.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+542;Królikowska Wiktoria;40061718117;17.07.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+543;Woœ Wiktor;26041962624;17.07.2021;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;1260
+544;Biliñski Antoni;83020865615;17.07.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+545;Dziedzic Marianna;79062550277;19.07.2021;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+546;Marek Regina;00262772576;19.07.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+547;Czapla Ma³gorzata;45042516823;19.07.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+548;Wasiak Aleksander;13231782010;19.07.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+549;Budzyñska Wioletta;48040554789;21.07.2021;Micha³owski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+550;Dolata Amelia;60101070755;21.07.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+551;Pilch Oliwia;01252215626;22.07.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+552;Wrzosek Piotr;05220248502;22.07.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+553;Kurek Agata;58111665023;23.07.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+554;Ratajczak Natalia;96090887153;23.07.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+555;Ma³ek Agnieszka;04260425177;23.07.2021;Bobrzyñski;Pomoc ambulatoryjna;NFZ;570
+556;Walkowiak Magdalena;32112550782;23.07.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+557;Karwowska Diana;32072477620;23.07.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+558;Strzelczyk Bernardyna;32012434278;23.07.2021;Gronowski;Szycie ran;NFZ;510
+559;Ko³akowska Brygida;66042251756;23.07.2021;Maliñski;Intensywna terapia;NFZ;2370
+560;Bogdañski Rafa³;90022540572;23.07.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+561;Zaj¹c Emilia;74041313735;24.07.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+562;Gajewski Józef;59011232362;24.07.2021;Kalinowska;Pomoc okulistyczna;NFZ;930
+563;Ko³odziejczyk Eugeniusz;89102670405;24.07.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+564;Grzybowska Bogna;89042074385;24.07.2021;Pielecka;Pomoc ambulatoryjna;NFZ;570
+565;Krzy¿anowska Józefina;08261351523;24.07.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+566;Rybicka Maria;66081626748;24.07.2021;Pielecka;Pomoc ambulatoryjna;Abonament medyczny;570
+567;Mikulska Hanna;55041582110;24.07.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+568;Stelmach Jaœmina;26102048032;24.07.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+569;Baranowski Szymon;69010141268;26.07.2021;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;690
+570;Ró¿ycki Gustaw;19302623550;26.07.2021;Bobrzyñski;Intensywna terapia;NFZ;2370
+571;Majcher Filip;09210700757;26.07.2021;Kalinowska;Pomoc ambulatoryjna;Abonament medyczny;570
+572;Kawa Mateusz;63102164555;26.07.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+573;Frankiewicz Alicja;71030704631;26.07.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+574;Piasecki Maksym;36082326886;28.07.2021;Maliñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;570
+575;Andrzejczak Nikola;49010716480;28.07.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+576;Lisowski Pawe³;13312260185;30.07.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+577;Piórkowski Dominik;85102310873;30.07.2021;Kalinowska;Intensywna terapia;NFZ;2370
+578;Niedziela Paulina;95030651380;30.07.2021;Maliñski;Pomoc ambulatoryjna;NFZ;570
+579;Kochañski Jakub;01210106687;30.07.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+580;Trzeciak Adam;26040176220;31.07.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+581;Szkudlarek Jaros³aw;64110852030;31.07.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+582;Zawadzki Maksym;91010775011;01.08.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+583;Górka Wiktor;52051411371;01.08.2021;Micha³owski;Pomoc ambulatoryjna;Polisa zdrowotna;570
+584;Koper Piotr;08220384447;01.08.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+585;Kuciñska Marianna;27080947076;01.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+586;Kwiatek S³awomir;04242743543;01.08.2021;Kalinowska;Intensywna terapia;NFZ;2370
+587;Lorenc Aleksander;26011720364;01.08.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+588;Czaja Aleksy;99070767470;06.08.2021;Maliñski;Intensywna terapia;NFZ;2370
+589;Paku³a Grzegorz;71070800713;06.08.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+590;Matusiak Patryk;60040322267;07.08.2021;Micha³owski;Szycie ran;Abonament medyczny;510
+591;Borowiec Dominik;41091685149;07.08.2021;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+592;Stolarczyk Weronika;93052583335;07.08.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+593;Tomala Wiktoria;42051914363;07.08.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+594;Buczyñski Ryszard;95050222119;07.08.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+595;Salamon Zenon;84021334401;07.08.2021;Pielecka;Pomoc okulistyczna;NFZ;930
+596;Mierzwa Maciej;59041564169;07.08.2021;Gronowski;Intensywna terapia;NFZ;2370
+597;Raczkowski Mateusz;83091183319;07.08.2021;Kosiñska;Pomoc ambulatoryjna;NFZ;570
+598;Dr¹g Stefania;93010376384;07.08.2021;Kalinowska;Pomoc okulistyczna;NFZ;930
+599;Prokop Alicja;23112225228;08.08.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+600;Œmigielska Justyna;71101846488;08.08.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+601;Okoñ Aleksy;46101751487;08.08.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+602;Leszczyñska Wanda;57100707225;12.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+603;Bednarczyk Micha³;87102673824;12.08.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+604;Dêbska Paulina;52082525223;12.08.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+605;Jurek Micha³;03271014758;12.08.2021;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+606;Skrzypek Tymon;45012751029;12.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+607;Dominiak Maksym;76092711135;12.08.2021;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;690
+608;Czerwiñski Boles³w;32081061823;13.08.2021;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;1260
+609;Sienkiewicz Jan;23111027883;13.08.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+610;Wróbel Rozalia;82090964543;15.08.2021;Maliñski;Szycie ran;NFZ;510
+611;Konieczna Julia;28030111343;15.08.2021;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;1260
+612;Przybysz Rafa³;43091675768;16.08.2021;Kalinowska;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;930
+613;S³awiñski Antoni;74100586887;16.08.2021;Maliñski;Intensywna terapia;NFZ;2370
+614;Witkowska Maria;20312435633;17.08.2021;Bobrzyñski;Pomoc ambulatoryjna;Abonament medyczny;570
+615;Lipiñska Alicja;92031852079;17.08.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+616;Godlewski Antoni;13232616312;17.08.2021;Piotrecki;Intensywna terapia;NFZ;2370
+617;Trzciñska Jagoda;35052368668;17.08.2021;Kalinowska;Pomoc okulistyczna;Polisa zdrowotna;930
+618;Kozak Tomasz;93080334660;18.08.2021;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;1260
+619;Kosiñski Wiktoria;11271200637;18.08.2021;Micha³owski;Pomoc laryngologiczna;NFZ;690
+620;Rogala Edward;44051153201;18.08.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+621;Zielonka Daniel;75111826146;18.08.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+622;Sobczyk Borys;76020131639;19.08.2021;Kosiñska;Intensywna terapia;NFZ;2370
+623;Marsza³ek Matylda;21220184688;19.08.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+624;Noga Zuzanna;51101301341;19.08.2021;Bobrzyñski;Pomoc ambulatoryjna;NFZ;570
+625;Jankowiak Adam;60100922558;19.08.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+626;Puchalska Aleksandra;71041533611;20.08.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+627;Paprocka Zofia;99052530810;20.08.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+628;Kot Maria;97110975652;22.08.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+629;Drozdowska Justyna;13301062664;22.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+630;Adamiec Damian;17251461388;22.08.2021;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;1260
+631;Oleksy Witold;01232517580;22.08.2021;Maliñski;Pomoc kardiologiczna;Abonament medyczny;1260
+632;Leœniak Zbigniew;68102451807;23.08.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+633;Jakubiak Zenona;29010254524;23.08.2021;Kalinowska;Pomoc ambulatoryjna;NFZ;570
+634;Wiœniewska Magdalena;77112201344;25.08.2021;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+635;Wilk Szymon;99041287859;25.08.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+636;Lech Bogdan;15301841032;25.08.2021;Kalinowska;Pomoc laryngologiczna;NFZ;690
+637;Dudziñski W³odzimierz;74062663732;25.08.2021;Maliñski;Nastawianie z³amanej koœci;Pol-Plan Ubezpieczenia;1110
+638;Œwiderska Rozalia;25112311376;26.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+639;Piekarski Alfred;67032520067;26.08.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+640;Cholewa Ryszard;88061068504;26.08.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+641;Zwoliñski Igor;51092530461;26.08.2021;Pielecka;Pomoc okulistyczna;Abonament medyczny;930
+642;Adamowicz Roman;28031126418;27.08.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+643;Wiêcek Eliza;41092373364;27.08.2021;Maliñski;Pomoc kardiologiczna;Abonament medyczny;1260
+644;Broda Patrycja;79010461738;27.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+645;Maci¹g Czes³awa;35041845602;27.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+646;Dymek Aleksandra;05250278160;27.08.2021;Micha³owski;Pomoc okulistyczna;Polisa zdrowotna;930
+647;Jurczyk El¿bieta;71051672887;27.08.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+648;Ma³kowska Bogna;57100721003;27.08.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+649;Jakubczyk Boles³w;87072650751;27.08.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+650;Osowski Przemys³aw;09280401525;27.08.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+651;Markowski Joachim;61092438140;28.08.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+652;Sowa Maciej;49031920802;28.08.2021;Micha³owski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+653;Cebula Jeremiasz;07230214740;28.08.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+654;Mroczek Marcin;65052286129;28.08.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+655;Balcerzak Dagmara;14220100422;28.08.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+656;Figiel Emilia;76080632341;28.08.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+657;Skóra Bogdan;79021328705;30.08.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+658;WoŸnica Bohdan;65090244589;30.08.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+659;Budziñski Jakub;29072674713;31.08.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+660;Rokicka Hanna;41092717559;31.08.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+661;Sikorski Miko³aj;64031007063;01.09.2021;Micha³owski;Intensywna terapia;Abonament medyczny;2370
+662;Kucharczyk Zofia;98041811284;01.09.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+663;Kostecki Damian;48051648855;02.09.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+664;Konarski Daniel;54021912125;02.09.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+665;Górski Borys;87112475557;04.09.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+666;Maækowiak Joanna;61051564286;04.09.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+667;Grzesik Monika;35020974705;04.09.2021;Bobrzyñski;Pomoc ambulatoryjna;NFZ;570
+668;Lange Julia;29040786400;04.09.2021;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+669;Kamiñski Dawid;96041524780;05.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+670;Turek Eugenia;50101152384;05.09.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+671;Kwiatkowska Maja;47082078468;06.09.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+672;Markiewicz Jakub;89081235420;06.09.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+673;Karczewska Ma³gorzata;51102130313;06.09.2021;Piotrecki;Pomoc ambulatoryjna;NFZ;570
+674;Rojek Patryk;77100643002;06.09.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+675;Grudzieñ Piotr;33011338501;06.09.2021;Maliñski;Pomoc ambulatoryjna;Abonament medyczny;570
+676;Goliñski Wojciech;31012765616;06.09.2021;Bobrzyñski;Pomoc okulistyczna;Abonament medyczny;930
+677;Pi¹tek Aleksander;91041188086;07.09.2021;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;930
+678;Rzepka Marcelina;50112531040;07.09.2021;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;1260
+679;Przyby³ Marcin;29021244187;08.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+680;Siwiec Marek;11262411701;08.09.2021;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+681;Borkowska Julia;65032526847;09.09.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+682;Szulc Zuzanna;28092458187;09.09.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+683;Go³êbiowska Ró¿a;32052005481;09.09.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+684;Tokarski Maksym;53090170157;09.09.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+685;Biernat Martyna;75081871645;09.09.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+686;Olczak Mateusz;93112771432;09.09.2021;Kosiñska;Pomoc ambulatoryjna;Polisa zdrowotna;570
+687;Wróblewska Anna;19220668350;10.09.2021;Kosiñska;Pomoc okulistyczna;Polisa zdrowotna;930
+688;Maciejewski Juliusz;94011282511;10.09.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+689;K³os W³odzimierz;74020462506;10.09.2021;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+690;Grzyb Amanda;62111653858;10.09.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+691;Pytel Adam;64101383569;10.09.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+692;Sobota Edward;23100652162;10.09.2021;Micha³owski;Pomoc laryngologiczna;NFZ;690
+693;Or³owski Bogus³aw;72061974420;12.09.2021;Micha³owski;Intensywna terapia;NFZ;2370
+694;Rogowski Maciej;02222288280;12.09.2021;Bobrzyñski;Pomoc ambulatoryjna;NFZ;570
+695;Dêbowski Maciej;13270788004;12.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+696;Dubiel Miko³aj;92111804589;12.09.2021;Piotrecki;Pomoc okulistyczna;Abonament medyczny;930
+697;Miœkiewicz Nikola;73082486602;12.09.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+698;Kokot Oliwia;94050284600;12.09.2021;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+699;Adamczyk Micha³;19261480029;13.09.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+700;Krupa Juliusz;77080222187;13.09.2021;Gronowski;Pomoc laryngologiczna;Abonament medyczny;690
+701;Filipiak Adam;44102341382;13.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+702;Bagiñski Miko³aj;07250647827;13.09.2021;Pielecka;Pomoc laryngologiczna;NFZ;690
+703;Muszyñski Jakub;30051872871;14.09.2021;Piotrecki;Nastawianie z³amanej koœci;NFZ;1110
+704;Jurkiewicz Bogdan;54072381721;14.09.2021;Maliñski;Nastawianie z³amanej koœci;NFZ;1110
+705;Zalewska Emilia;26040404419;15.09.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+706;Bartkowiak Ma³gorzata;02212506116;15.09.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+707;Karpiñska Magdalena;47010423515;17.09.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+708;Sokó³ Dominik;36081848866;17.09.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+709;Wyszyñski Wiktor;14270236351;18.09.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+710;Szymanowska Ada;30071107229;18.09.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+711;Stachura Szymon;94041438274;19.09.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+712;Banaszak Justyna;68112566773;19.09.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+713;Laskowska Amelia;66112384274;20.09.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+714;Micha³owska Agnieszka;09292515801;20.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+715;Bogusz Dominik;80020563369;20.09.2021;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+716;Kêdziora Maciej;16230981633;20.09.2021;Micha³owski;Pomoc laryngologiczna;NFZ;690
+717;Majka Aleksandra;85091384202;20.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+718;Potocka Monika;99080855459;20.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+719;Wieczorek Oliwia;85081125217;21.09.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+720;Graczyk Aleksander;11241504073;21.09.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+721;Miko³ajczyk Sonia;24111331017;22.09.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+722;Kubik Bo¿ydar;07241648369;22.09.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+723;Bieñkowski Mateusz;06222241609;22.09.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+724;Trela Marcin;27040376207;22.09.2021;Gronowski;Intensywna terapia;NFZ;2370
+725;Bro¿ek Kacper;80101640572;22.09.2021;Gronowski;Pomoc okulistyczna;Polisa zdrowotna;930
+726;Bober Jerzy;19232456459;23.09.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+727;Kalisz Julia;28091544614;23.09.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+728;Banaszek Cezar;63090437510;23.09.2021;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;1260
+729;Kazimierczak Paula;74031816046;23.09.2021;Kosiñska;Intensywna terapia;Polisa zdrowotna;2370
+730;Radziszewski Marek;41011963106;23.09.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+731;Guzik Celina;47090771241;24.09.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+732;Radecka Lena;46112474027;24.09.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+733;Kawka Antoni;50101511143;24.09.2021;Micha³owski;Pomoc ambulatoryjna;Abonament medyczny;570
+734;Hoffmann Miko³aj;01250312776;24.09.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+735;Kaniewska Magdalena;13261222836;25.09.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+736;Litwin Alfred;81072665122;25.09.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+737;Kopeæ S³awomir;68081922107;26.09.2021;Micha³owski;Pomoc ambulatoryjna;Abonament medyczny;570
+738;Malec Agnieszka;70062684328;26.09.2021;Pielecka;Pomoc ambulatoryjna;NFZ;570
+739;Sochacki Sylwia;04221367056;26.09.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+740;Kuc Bogus³aw;16240727423;26.09.2021;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+741;Dziura Marcin;27010370444;26.09.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+742;Dutkiewicz Nikola;43040258619;26.09.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+743;Jakubiec Alicja;03231447174;26.09.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+744;Galiñski Jakub;50101318207;26.09.2021;Kalinowska;Pomoc ambulatoryjna;Polisa zdrowotna;570
+745;£ukasik Kacper;44081577523;02.10.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+746;Bartosik Ryszard;59070218659;02.10.2021;Maliñski;Intensywna terapia;NFZ;2370
+747;Kozie³ Eleonora;95012220364;03.10.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+748;Florczak Micha³;40070913613;03.10.2021;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+749;Olszewska Zuzanna;39102300378;04.10.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+750;Kaczmarczyk Kacper;21211117442;04.10.2021;Micha³owski;Pomoc laryngologiczna;NFZ;690
+751;Klimczak S³awa;92110814781;04.10.2021;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;1260
+752;Ksi¹¿ek S³awomira;76071436356;04.10.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+753;Rybak Waldemar;56052760762;08.10.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+754;Pasternak Lena;87011681336;08.10.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+755;Szymañska Ewelina;13262350556;09.10.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+756;Sobczak B³a¿ej;10292537126;09.10.2021;Gronowski;Pomoc okulistyczna;Abonament medyczny;930
+757;Jastrzêbski Waldemar;32061132530;09.10.2021;Piotrecki;Pomoc okulistyczna;Abonament medyczny;930
+758;Sowiñski Antoni;74051636446;09.10.2021;Maliñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+759;M³ynarczyk Sebastian;23091348534;09.10.2021;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;690
+760;Urbañczyk Jakub;59031548838;09.10.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+761;Chmielewski Bartosz;56010728360;10.10.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+762;Musia³ Emilia;57092358722;10.10.2021;Bobrzyñski;Pomoc ambulatoryjna;Polisa zdrowotna;570
+763;Bartczak Maja;54041588188;10.10.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+764;Gawlik Aleksandra;77112762102;10.10.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+765;Adamiak Weronika;71090163342;10.10.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+766;Roszak Tomasz;10261137737;10.10.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+767;Osuch Maciej;57111422126;10.10.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+768;Skiba Jagoda;89020953220;13.10.2021;Gronowski;Intensywna terapia;Abonament medyczny;2370
+769;Lasota Wincenty;28101428053;13.10.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+770;Lewandowska Eliza;84030673078;14.10.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+771;Kulesza Marta;88101205634;14.10.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+772;Wypych Jaœmina;11231113359;14.10.2021;Pielecka;Intensywna terapia;NFZ;2370
+773;Korzeniewska Gabriela;62071284761;14.10.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+774;Go³¹b Cyprian;06271938363;17.10.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+775;Pawlikowski Micha³;48110878315;17.10.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+776;Wojtas Diana;11242126218;17.10.2021;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;1260
+777;Dro¿d¿ Aleksander;75042227700;17.10.2021;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;690
+778;Paszkiewicz Dominik;55012053076;17.10.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+779;Filipczak Dominik;21280502488;17.10.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+780;Szczygielska Marta;78012304744;17.10.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+781;Kozio³ Patryk;29051402029;22.10.2021;Piotrecki;Pomoc okulistyczna;Abonament medyczny;930
+782;Kisiel Justyna;91071727525;22.10.2021;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;930
+783;Kowal W³adys³aw;82101774866;24.10.2021;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+784;Jagie³³o Agnieszka;42090163274;24.10.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+785;Ga³ka Aldona;46030878686;24.10.2021;Maliñski;Pomoc okulistyczna;NFZ;930
+786;¯uk Julia;70051874664;24.10.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+787;Œlêzak Józefina;69052417619;24.10.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+788;Rogoziñska Marcelina;32021980757;24.10.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+789;Michalska Natalia;16251744839;30.10.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+790;Góra Anna;97050951639;30.10.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+791;Maœlanka Jan;89042557509;31.10.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+792;Iwanowska Dominika;91111518564;31.10.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+793;Kowalewska Józefina;11230706772;01.11.2021;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;1260
+794;Orzechowska Sylwia;77010188712;01.11.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+795;Gawron Jaros³awa;93091988340;01.11.2021;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+796;Raczyñski Kacper;45031180226;01.11.2021;Gronowski;Pomoc ambulatoryjna;Abonament medyczny;570
+797;Ruciñska Aleksandra;60010744215;01.11.2021;Maliñski;Intensywna terapia;NFZ;2370
+798;Suski Dariusz;29082157211;01.11.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+799;Gorczyca Tomasz;96070738860;01.11.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+800;Magiera Dorota;90101220256;01.11.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+801;Æwik Lena;32101260166;01.11.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+802;Traczyk Wiktor;02282248550;01.11.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+803;KaŸmierczak Wojciech;81110765753;02.11.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+804;Urbaniak Bart³omiej;52110684041;02.11.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+805;Marzec S³awomir;10211334443;02.11.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+806;Nawrot Aleksander;54022657021;02.11.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+807;Wojtczak Gabriela;27051140826;02.11.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+808;Górniak Natalia;32010940212;02.11.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+809;Szymkowiak Roksana;34112450857;02.11.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+810;Czuba Wojciech;84110263849;02.11.2021;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;1260
+811;Kie³basa Hanna;50020735727;03.11.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+812;Kruszyñska Martyna;10301657117;03.11.2021;Pielecka;Pomoc ambulatoryjna;Abonament medyczny;570
+813;Brzeziñski Dariusz;63091455360;04.11.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+814;Ma³ecka Nikola;16282142684;04.11.2021;Bobrzyñski;Intensywna terapia;NFZ;2370
+815;Rogalski Wiktor;73011684622;04.11.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+816;Hajduk Alicja;44011987350;04.11.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+817;K³osowski Antoni;42040700027;04.11.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+818;Seku³a Alina;39021588558;04.11.2021;Kosiñska;Pomoc okulistyczna;NFZ;930
+819;W³odarczyk El¿bieta;74080878301;05.11.2021;Kalinowska;Pomoc laryngologiczna;Polisa zdrowotna;690
+820;Chrzanowska Zofia;96050544658;05.11.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+821;Winiarska Aleksandra;63112337684;05.11.2021;Kalinowska;Intensywna terapia;Polisa zdrowotna;2370
+822;Mierzejewski Kacper;07211242775;05.11.2021;Gronowski;Intensywna terapia;NFZ;2370
+823;Stankiewicz Magdalena;65111171452;06.11.2021;Bobrzyñski;Intensywna terapia;NFZ;2370
+824;Wójcicki Marek;56062043488;06.11.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+825;Kaszuba Jolanta;19300932289;06.11.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+826;Krakowski Bart³omiej;59061574027;06.11.2021;Kosiñska;Pomoc laryngologiczna;Abonament medyczny;690
+827;Dusza Mateusz;46092732715;06.11.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+828;Kosowski Maciej;71031086088;07.11.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+829;Szymaniak Dominik;72050308155;07.11.2021;Kalinowska;Intensywna terapia;Polisa zdrowotna;2370
+830;Nowakowska Paula;91021464214;08.11.2021;Maliñski;Intensywna terapia;NFZ;2370
+831;Wilczyñska Weronika;39051620804;08.11.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+832;Antczak Wojciech;61071760202;08.11.2021;Bobrzyñski;Pomoc ambulatoryjna;Polisa zdrowotna;570
+833;Gruszczyñska Czes³awa;10252286286;08.11.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+834;Knapik Jaros³aw;00211463142;08.11.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+835;Staszak Jan;35081227310;08.11.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+836;Mazur Patryk;16232281175;09.11.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+837;Maj Zuzanna;61032053154;09.11.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+838;Drozd Maciej;04220110723;09.11.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+839;Lisiecka Janina;21240634420;09.11.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+840;So³tys Natalia;28032354357;09.11.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+841;Skorupa Bohdan;90101786378;09.11.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+842;Szadkowski Józef;77041877351;09.11.2021;Piotrecki;Pomoc laryngologiczna;Polisa zdrowotna;690
+843;Kurowski Piotr;50021512419;10.11.2021;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+844;Karaœ Emilia;32101274002;10.11.2021;Gronowski;Pomoc laryngologiczna;NFZ;690
+845;Piotrowicz Antoni;36011733437;10.11.2021;Micha³owski;Intensywna terapia;NFZ;2370
+846;Grzybek Daria;67040582619;10.11.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+847;Domaga³a Wojciech;00250237445;11.11.2021;Gronowski;Szycie ran;NFZ;510
+848;Klimek Ma³gorzata;31042707781;11.11.2021;Kalinowska;Pomoc laryngologiczna;NFZ;690
+849;Ko³odziejski Tymon;68030503681;11.11.2021;Piotrecki;Intensywna terapia;NFZ;2370
+850;Bia³as Jadwiga;85100928151;11.11.2021;Bobrzyñski;Pomoc okulistyczna;NFZ;930
+851;G³ogowska Amelia;10222307539;12.11.2021;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+852;Grabarczyk Lena;06241802054;12.11.2021;Gronowski;Pomoc ambulatoryjna;NFZ;570
+853;Niewiadomska Oliwia;87010974468;16.11.2021;Maliñski;Pomoc laryngologiczna;NFZ;690
+854;Modzelewska Zofia;75110228789;16.11.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+855;Paluch Paula;27031966228;17.11.2021;Kosiñska;Szycie ran;Polisa zdrowotna;510
+856;Koza Piotr;05262430552;17.11.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+857;Skalska Emilia;06311920369;17.11.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+858;Juszczyk Waldemar;66051877158;17.11.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+859;Sikora Magdalena;52050323370;18.11.2021;Piotrecki;Intensywna terapia;NFZ;2370
+860;Marcinkowska Edyta;07260410057;18.11.2021;Piotrecki;Pomoc laryngologiczna;NFZ;690
+861;Ró¿añska Wies³awa;93092648308;18.11.2021;Piotrecki;Pomoc okulistyczna;Polisa zdrowotna;930
+862;Juszczak Martyna;09252302869;18.11.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+863;Szczepaniak Dominik;75011181864;19.11.2021;Piotrecki;Intensywna terapia;NFZ;2370
+864;Grzegorczyk Anna;01300520885;19.11.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+865;Bo¿ek Igor;93052166167;19.11.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+866;Jurczak Magdalena;05311726654;19.11.2021;Pielecka;Pomoc kardiologiczna;Abonament medyczny;1260
+867;Stanis³awska Regina;66082031439;20.11.2021;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;690
+868;Wrzesiñska Wiktoria;37050782440;20.11.2021;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+869;Antkowiak Mariusz;12212758888;20.11.2021;Piotrecki;Pomoc laryngologiczna;Abonament medyczny;690
+870;Malinowski Czes³aw;63041610737;24.11.2021;Bobrzyñski;Intensywna terapia;Pol-Plan Ubezpieczenia;2370
+871;Serafin Ma³gorzata;54031527355;24.11.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+872;Korzeniowski Filip;56020456275;25.11.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+873;Bartoszek Emil;15250682560;25.11.2021;Bobrzyñski;Intensywna terapia;Polisa zdrowotna;2370
+874;Szczepañska Aleksandra;71101744748;26.11.2021;Bobrzyñski;Pomoc ambulatoryjna;Abonament medyczny;570
+875;Rakowski Wincenty;89080564703;26.11.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+876;Mazurkiewicz Jan;76020871050;28.11.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+877;Kubacki Dariusz;68032325553;28.11.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+878;Jêdrzejewski Igor;33102670347;30.11.2021;Piotrecki;Pomoc ambulatoryjna;NFZ;570
+879;Jezierski Maciej;66011652470;30.11.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+880;Czekaj Mariusz;17222127622;30.11.2021;Kalinowska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+881;Kasperek Jan;55082255437;30.11.2021;Kalinowska;Pomoc ambulatoryjna;Polisa zdrowotna;570
+882;Moskal Adam;17271225821;30.11.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+883;Bia³ecki Antoni;20292561135;30.11.2021;Micha³owski;Pomoc okulistyczna;Abonament medyczny;930
+884;Jaskólski Zbigniew;85081811264;30.11.2021;Kosiñska;Szycie ran;Abonament medyczny;510
+885;Piechota Micha³;54060602850;02.12.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+886;Szczerba W³adys³awa;88060252449;02.12.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+887;¯uchowska Anna;84061712177;02.12.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+888;Janczak Zofia;90091850574;02.12.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+889;Lesiak Sebastian;94032670676;04.12.2021;Kalinowska;Pomoc kardiologiczna;NFZ;1260
+890;Go³¹bek Zofia;80042486224;04.12.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+891;Michalak Juliusz;04241073216;06.12.2021;Maliñski;Intensywna terapia;NFZ;2370
+892;Miko³ajczak Janusz;12220621383;06.12.2021;Kosiñska;Pomoc kardiologiczna;NFZ;1260
+893;Andrzejewski Micha³;27012456449;09.12.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+894;Fr¹czek Wojciech;28092300088;09.12.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+895;Bartnik Mateusz;59012342118;11.12.2021;Maliñski;Szycie ran;NFZ;510
+896;Waszkiewicz Magdalena;28051010704;11.12.2021;Piotrecki;Nastawianie z³amanej koœci;NFZ;1110
+897;Socha Maja;63012677110;13.12.2021;Gronowski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+898;Borek Renata;85051772744;13.12.2021;Pielecka;Pomoc ambulatoryjna;NFZ;570
+899;Woliñska Emilia;79070608584;14.12.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+900;Grodzki W³adys³aw;04220114888;14.12.2021;Micha³owski;Pomoc ambulatoryjna;NFZ;570
+901;Koz³owska Diana;66022030210;15.12.2021;Micha³owski;Pomoc okulistyczna;NFZ;930
+902;Podgórski Waldemar;23071865189;15.12.2021;Maliñski;Pomoc ambulatoryjna;Polisa zdrowotna;570
+903;Napiera³a Edyta;78062175570;15.12.2021;Bobrzyñski;Nastawianie z³amanej koœci;Polisa zdrowotna;1110
+904;Gola Damian;21230118675;15.12.2021;Piotrecki;Pomoc okulistyczna;NFZ;930
+905;Domañska Marcelina;77020104647;16.12.2021;Piotrecki;Intensywna terapia;NFZ;2370
+906;Szczygie³ Alicja;36051768749;16.12.2021;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;1260
+907;Szczeœniak Amelia;16220368006;17.12.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+908;Bieliñska Sabina;08211555786;17.12.2021;Kosiñska;Intensywna terapia;NFZ;2370
+909;Dobrzañska Aleksandra;84022653284;17.12.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+910;Kubiak Monika;72010237145;20.12.2021;Piotrecki;Pomoc kardiologiczna;NFZ;1260
+911;Stefañski Zenon;75052014275;20.12.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+912;Banasiak Maksymilian;62051486369;20.12.2021;Bobrzyñski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;690
+913;Zaj¹czkowska Edyta;18292576833;20.12.2021;Maliñski;Pomoc kardiologiczna;NFZ;1260
+914;Skowronek Jonasz;47102166236;21.12.2021;Bobrzyñski;Pomoc laryngologiczna;NFZ;690
+915;Furman Bernard;58051678549;21.12.2021;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;1260
+916;Bogacz Zofia;87090506766;21.12.2021;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;690
+917;Wach Jonatan;61050864721;21.12.2021;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;1260
+918;Gajda Gabriela;14300984243;22.12.2021;Kosiñska;Pomoc laryngologiczna;NFZ;690
+919;Szafrañski Dominik;32020131758;22.12.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+920;Tomczak Dominik;58072523260;23.12.2021;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;1260
+921;Zych S³awomir;18292115430;23.12.2021;Gronowski;Pomoc kardiologiczna;NFZ;1260
+922;D¹bek Micha³;81070723189;23.12.2021;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;1260
+923;Filipowicz Hanna;87031045512;23.12.2021;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;690
+924;Dudek Martyna;90030103738;25.12.2021;Bobrzyñski;Pomoc kardiologiczna;NFZ;1260
+925;Grochowski Wies³aw;67072718039;25.12.2021;Micha³owski;Pomoc kardiologiczna;NFZ;1260
+926;Czarnecka Hanna;36091231476;27.12.2021;Gronowski;Intensywna terapia;NFZ;2370
+927;Gil Jan;81061756677;27.12.2021;Bobrzyñski;Pomoc ambulatoryjna;NFZ;570
+928;Sitek Wac³aw;14242458686;28.12.2021;Gronowski;Pomoc okulistyczna;NFZ;930
+929;Cio³ek Jolanta;21241906508;28.12.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+930;Modrzejewski Micha³;57011048516;28.12.2021;Pielecka;Pomoc kardiologiczna;NFZ;1260
+931;Kowalski Bogdan;54020187867;29.12.2021;Maliñski;Intensywna terapia;Polisa zdrowotna;2370
+932;Bednarz Aleksander;74090316086;29.12.2021;Pielecka;Pomoc ambulatoryjna;NFZ;570
