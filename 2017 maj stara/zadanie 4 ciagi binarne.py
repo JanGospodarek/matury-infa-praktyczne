@@ -61,4 +61,16 @@ def zad3():
                 najwiekszy_dec = dec
     return najwiekszy_bin, najwiekszy_dec
 
+
 # print(zad3())
+
+tab = [0, 1, 1, 2, 4]
+i = 5
+n = 9
+while i <= n:
+    t = tab[0] + tab[1] + tab[2] + tab[3] + tab[4]
+    tab[i % 5] = t
+    i += 1
+w = tab[n % 5]
+print(tab)
+print(w)
