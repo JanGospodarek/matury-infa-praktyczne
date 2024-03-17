@@ -23,7 +23,7 @@ def zad1():
     print(ile)
 
 
-# zad1()
+zad1()
 
 
 def silnia(n: int):
@@ -49,7 +49,7 @@ def zad2():
             print(liczba)
 
 
-# zad2()
+zad2()
 
 t = [5, 70, 28, 42, 98, 1, 3]
 
